@@ -1,0 +1,96 @@
+    1  LS
+    2  cd hoe
+    3  cd home
+    4  ls
+    5  cd /root
+    6  ls
+    7  cd server_lesson
+    8  ls
+    9  cd README.md
+   10  vi README.md
+   11  vi README.md
+   12  git remote add origin https://github.com/miii00/sever_lesson.git
+   13  git branch -M main
+   14  git push -u origin main
+   15  git remote add origin https://github.com/miii00/sever_lesson.git
+   16  git branch -M main
+   17  git push -u origin main
+   18  ped
+   19  pwd
+   20  exit
+   21  ls
+   22  cd /root
+   23  ls
+   24  cd server_lesson
+   25  git version
+   26  git remote add origin https://github.com/miii00/sever_lesson.git
+   27  git remote -v
+   28  git status
+   29  git add .
+   30  git status
+   31  ·´ç¿’å•é¡Œ'
+
+   32  git status
+   33  git commit -m 'practice_q1'
+   34  git config --global user.email "ikeminami.00@gmail.com"
+   35   git config --global user.name "miii00"
+   36  git commit -m 'practice_q1'
+   37  git log
+   38  git push origin master
+   39  ls
+   40  mkdir linux_practice2 && cd linux_practice
+   41  ls
+   42  cd linux_practice2
+   43  mkdir documents && cd documents
+   44  touch gizumo{01..50}.md
+   45  cd ../
+   46  mkdir trash
+   47  ls
+   48  cd documents
+   49  ls
+   50  mv gizumo{20..40}.md trash
+   51  cd ../
+   52  mv documents/gizumo{20..40}.md trash
+   53  cd trash
+   54  ls
+   55  cd ..?
+   56  cd ../
+   57  touch .gitignore
+   58  vi .gitignore
+   59  vi .gitignore
+   60  cat .gitignore
+   61  git status
+   62  ls
+   63  cd ../
+   64  ls-a
+   65  ls -a
+   66  .git
+   67  cd .git
+   68  cd ../
+   69  git status
+   70  git status -uall
+   71  ls
+   72  cd linux_practice2
+   73  ls
+   74  ls -a
+   75  cd .gitignore
+   76  cd .gitignore 
+   77  vi .gitignore 
+   78  cd ../
+   79  ls -a
+   80  git status -uall
+   81  ls
+   82  ls -a
+   83  cd linux_practice2
+   84  ls
+   85  ls -a
+   86  vi .gitignore
+   87  cd ../
+   88  ls -a
+   89  git status
+   90  git status -uall
+   91  history 300
+   92  cd linux_practice2
+   93  touch exec_command.log
+   94  vi exec_command.log 
+   95  history 300 > exec_command.log 
